@@ -15,8 +15,8 @@ Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy
 ```javascript
 const marco = {
   code: [Javascript, HTML, CSS, PostgreSQL],
-  tools: [React, Redux, Node, Express, Sequelize],
-  learn: ["Typescript", "React-Native", "MongoDB", "MaterialUI"]
+  tools: [React, Redux, Node, Express, Sequelize, Firebase, MaterialUI, Styled-Components],
+  learn: ["Typescript", "React-Native", "MongoDB"]
 }
 ```
 
