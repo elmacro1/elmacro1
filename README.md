@@ -6,7 +6,7 @@
 Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: marcogalvan](https://img.shields.io/badge/-marcogalván-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marco-galv%C3%A1n-fullstackdev/)](https://www.linkedin.com/in/marco-galv%C3%A1n-fullstackdev/)
+[![Linkedin: marcogalvan](https://img.shields.io/badge/-marcogalván-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcoagalvan/)](https://www.linkedin.com/in/marcoagalvan/)
 [![GitHub Marco](https://img.shields.io/github/followers/marco?label=follow&style=social)](https://github.com/elmacro1)
 
 
