@@ -1,8 +1,7 @@
 
 
 
-<h2> Hi, I'm Marco Galván! </h2>
-<img align='right' src="https://media.giphy.com/media/fuJPZBIIqzbt1kAYVc/giphy.gif" width="230">
+<h1> Hi, I'm Marco Galván </h1>
 Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
 
@@ -10,17 +9,19 @@ Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy
 [![GitHub Marco](https://img.shields.io/github/followers/marco?label=follow&style=social)](https://github.com/elmacro1)
 [Web personal](https://marco-galvan.online)
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
 ```javascript
-const marco = {
-  code: ["Javascript", "HTML", "CSS", "PostgreSQL", "Typescript", "React-Native", "NextJS",
-          "React", "Redux", "Node", "Express", "Sequelize", "Firebase", "MaterialUI", "Styled-Components"],
-  tools: ["GitHub", "Jira", "Notion", "GitLab", "BitBucket"]
+const skills = {
+  languages: ["Javascript", "Typescript", "CSS3", "HTML", "Python", "SQL"],
+  frameworks: ["React", "React Native", "Next.js", "Angular", "Node.js", "Express.js", "TalwindCSS", "Bootstrap"],
+  tools: ["Git", "GitHub", "Jira", "Notion", "GitLab", "BitBucket", "Figma"]
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I love making friends and forming work groups :)</em>
+## Acerca de mí
 
----
+Desarrollador Full Stack con experiencia en Javascript, Typescript, React, Next.js, React Native y Angular. 
+También tengo conocimientos en Node.js y Express.js para el desarrollo Back End. 
+Busco constantemente aprender y mejorar mis habilidades.
+
+Mi enfoque es crear experiencias de usuario intuitivas y atractivas. Soy comunicativo, colaborativo y me enorgullezco de escribir código limpio. 
+Siempre estoy al tanto de las últimas tendencias en desarrollo web y participo en la comunidad de desarrolladores.
