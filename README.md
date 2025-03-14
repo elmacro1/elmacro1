@@ -15,7 +15,8 @@ Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy
 
 ```javascript
 const marco = {
-  code: ["Javascript", "HTML", "CSS", "PostgreSQL", "Typescript", "React-Native", "NextJS", "React", "Redux", "Node", "Express", "Sequelize", "Firebase", "MaterialUI", "Styled-Components"],
+  code: ["Javascript", "HTML", "CSS", "PostgreSQL", "Typescript", "React-Native", "NextJS",
+          "React", "Redux", "Node", "Express", "Sequelize", "Firebase", "MaterialUI", "Styled-Components"],
   tools: ["GitHub", "Jira", "Notion", "GitLab", "BitBucket"]
 }
 ```
