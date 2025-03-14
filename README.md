@@ -1,7 +1,7 @@
 
 
 
-<h1> Hi, I'm Marco Galván </h1>
+<h1>Marco Galván</h1>
 Full Stack Developer <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
 
